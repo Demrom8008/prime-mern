@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "roma dem mern test project",
+  "mongoUri": "mongodb+srv://RomaDem:RoMa4282h@cluster0.b1t37.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
